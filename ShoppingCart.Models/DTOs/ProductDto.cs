@@ -15,6 +15,6 @@ namespace ShoppingCart.Models.DTOs
         public decimal Price { get; set; }
         public int Qty { get; set; }
         public string CategoryName { get; set; }
-        public int CategoryId { get; set; }//is this actually here ?
+        public int CategoryId { get; set; }
     }
 }
